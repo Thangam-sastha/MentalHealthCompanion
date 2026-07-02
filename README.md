@@ -54,4 +54,5 @@ This tool is designed for awareness and educational purposes only. It is not a s
 
 ## 👤 Author
 
-[Your Name Here]
+Thangam S K
+
